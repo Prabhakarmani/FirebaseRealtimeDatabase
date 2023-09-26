@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseRealtimeDatabase</string>
+    <string name="enter_salary">Enter salary</string>
+    <string name="enter_age">Enter age</string>
+    <string name="enter_name">Enter name</string>
+    <string name="save_data">Save Data</string>
+    <string name="number_of_entries_0">Number of Entries: 0</string>
+</resources>
